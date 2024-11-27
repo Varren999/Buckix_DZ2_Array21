@@ -1,0 +1,7 @@
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\obj\Debug\Buckix_DZ2_Array21.csproj.AssemblyReference.cache
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\obj\Debug\Buckix_DZ2_Array21.csproj.CoreCompileInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\bin\Debug\Buckix_DZ2_Array21.exe.config
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\bin\Debug\Buckix_DZ2_Array21.exe
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\bin\Debug\Buckix_DZ2_Array21.pdb
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\obj\Debug\Buckix_DZ2_Array21.exe
+C:\Users\varre\source\repos\Buckix_DZ2_Array21\Buckix_DZ2_Array21\obj\Debug\Buckix_DZ2_Array21.pdb
